@@ -3,8 +3,6 @@
 A lightweight Python/GTK wallpaper browser for Linux. Choose a folder, browse
 its images in a thumbnail gallery, and apply one using `xwallpaper`.
 
-![XWallpaper GUI browsing and applying a desktop wallpaper](screenshots/xwallpaper-gui.png)
-
 ## Features
 
 - Remembers the chosen wallpaper folder.
